@@ -1,0 +1,18 @@
+{
+  "name": "Hari Krishna P A — AI Engineer",
+  "short_name": "HK Portfolio",
+  "description": "AI Engineer specialising in Agentic AI, LLM-powered applications and intelligent automation.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#101010",
+  "theme_color": "#101010",
+  "icons": [
+    {
+      "src": "/assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
